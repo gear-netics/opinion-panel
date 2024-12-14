@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "The product exceeded my expectations!",
+      "rating": 8,
+      "id": 1
+    },
+    {
+      "text": "It was okay, but there are areas for improvement.",
+      "rating": 5,
+      "id": 2
+    }
+  ]
+}
